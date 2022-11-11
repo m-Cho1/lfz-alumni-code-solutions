@@ -16,9 +16,9 @@
   font-size: 3rem;
 
   /* your code here */
-  position: relative;
-  bottom: 27rem;
-  left: 14rem;
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
 }
 
 .joke {
@@ -31,8 +31,8 @@
   text-transform: uppercase;
 
   /* your code here */
-  position: relative;
-  bottom: 9rem;
+  position: absolute;
+  bottom: 2px;
 }
 
 .overlay {
